@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ben243
-- 👀 I’m interested in data science!
+👋 Hi, I’m @Ben243
+👀 I’m interested in data science!
 
 <!---
 Ben243/Ben243 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
